@@ -11,7 +11,7 @@ My name is Ethan (he/him). I’m a fourth-year PhD student at the Georgia Instit
 
 Feel free to connect with me if you have questions about my work or would like to chat.
 
-muscle physiology x comparative biomechanics x evolution of complexity
+muscle physiology x insect flight
 ======
 Insects flap at very particular frequencies - think of the sound a mosquito makes as it buzzes by your ear. Why is it nearly always the same pitch? And why that pitch specifically? The answer turns out to be complicated, and depends on interactions between specialized flight muscle, springy exoskeleton, and tiny wings moving through a fluid environment.
 

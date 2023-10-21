@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ethan Wold"
-  avatar           : "moth_headshot.jpg"
+  avatar           : "moth_headshot.jpeg"
   bio              : "Muscle physiologist and comparative biomechanist"
   location         : "Atlanta, GA"
   employer         :
@@ -101,13 +101,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9966-7715"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ethanswold"
+  twitter          : "ethanswold"
   vine             :
   weibo            :
   xing             :
