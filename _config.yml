@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ethan Wold"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ethan Wold"
 description              : &description "personal description"
