@@ -1,9 +1,6 @@
 ---
 permalink: /research/
 title: "Research"
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 Evolution of synchronous and asynchronous flight
 
