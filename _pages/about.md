@@ -17,5 +17,5 @@ Insects flap at very particular frequencies - think of the sound a mosquito make
 
 I perform experiments on insect exoskeleton and muscle, and develop biophysical models of insects as mechanical resonators to understand why and how insects are capable of such remarkable feats of agility. Along with my engineering collaborators, we then apply principles of insect flight actuation and control to develop cutting-edge flapping-wing micro-aerial robots.
 
-I'm currently on the lookout postdoc or job opportunities that will allow me to apply my expertise in experimental muscle physiology and biomaterials testing, quantitative data analysis, and biophysical modeling. I excel at communicating complex topics across disciplines and routinely collaborate with evolutionary biologists, neuroscientists, engineers, physicists, and computer scientists in my work.
+I'm currently on the lookout for postdoc or job opportunities that will allow me to apply my expertise in experimental muscle physiology and biomaterials testing, quantitative data analysis, and biophysical modeling. I excel at communicating complex topics across disciplines and routinely collaborate with evolutionary biologists, neuroscientists, engineers, physicists, and computer scientists in my work.
 
