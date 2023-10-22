@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 Updated October 22, 2023
-<embed src="files/CVoct23.pdf" type="application/pdf" />
+<embed src="https://eswold.github.io.files/CVoct23.pdf" type="application/pdf" />
 
 Test 
