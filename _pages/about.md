@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](/files/logo.ico/favicon-16x16.png)
+![](/files/logo.ico/favicon-16x16.png){: .align-right width="300px"}
 
 My name is Ethan (he/him). I’m a fourth-year PhD student at the Georgia Institute of Technology in the Quantitative Biosciences (QBioS) program. My thesis explores the nexus of muscle physiology, materials science, and dynamical systems models of insect flight. I’m a Rhode Island native and completed my undergraduate degree at Brown University in Biology and Geophysics.
 
